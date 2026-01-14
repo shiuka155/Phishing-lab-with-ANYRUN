@@ -1,0 +1,16 @@
+#Phishing email analyst - Investigation in Anyrun app
+
+##Objective
+Analyse a suspicious email and an attachment was sent to your co-worker
+
+##Tool use
+Anyrun app
+Cyberchef
+Network traffic inspection
+
+##Scenario
+An email with malicious attachment link was sent to you for analyze. The goal is to identify the malicious threat in this email
+
+##Analyse phase
+Review email in the Anyrun app
+Identified and inspected the pdf file (Payment-updateid.pdf)
