@@ -1,4 +1,4 @@
-# CyberSecurity-Labs
+# Phishing-Detect-Labs
 Hi there
 
 This is Khang Nguyen, and this is my folder for my hand-on labs.
